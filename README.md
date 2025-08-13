@@ -8,4 +8,8 @@ We use Aron Judge and Shohei Ohtani to be our swing standard, we can choose posi
 
 
 
+https://github.com/user-attachments/assets/a3d4776b-6838-4a94-9bb8-7b769d970e6d
+
+
+
 <img width="1562" height="906" alt="grade" src="https://github.com/user-attachments/assets/25cddb55-67dc-4dbb-b76f-7c7a9535fadd" />
