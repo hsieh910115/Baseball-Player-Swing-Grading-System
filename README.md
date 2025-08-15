@@ -1,4 +1,4 @@
-We use Aron Judge and Shohei Ohtani to be our swing standard, we can choose position 1~9 to compare with their swing mechanics, such as body angle... , and final we will get a score and short comment.
+We use Aaron Judge and Shohei Ohtani to be our swing standard, we can choose position 1~9 to compare with their swing mechanics, such as body angle... , and final we will get a score and short comment.
 
 1.Prepare your swing video input.mp4
 
