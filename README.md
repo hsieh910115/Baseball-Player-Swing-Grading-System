@@ -26,6 +26,8 @@ You can select a swing position (**1–9**) to compare parameters such as **body
 ## 🔹 Demo
 
 ### 🎥 Swing Input & Reconstruction
+![IMG_6936](https://github.com/user-attachments/assets/a2737e2f-93c9-47e2-a118-f7d8242dbaf3)
+
 https://github.com/user-attachments/assets/a3d4776b-6838-4a94-9bb8-7b769d970e6d  
 
 
